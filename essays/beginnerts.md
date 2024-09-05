@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why are there so many languages: Typescript thoughts"
+title: "Typescript Thoughts: Beginner Edition"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
