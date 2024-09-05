@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Why is there so many languages: Typescript thoughts"
+# All dates must be YYYY-MM-DD format!
+date: 2024-09-05
+published: true
+labels:
+  - Typescript
+  - Beginner
+  - Software Engineering
+---
   At the time of writing this I have started learning and practicing Typescript for 5 days. And as an almost complete beginner, I have to say that Typescript is a fun coding language. I think this opinion stems from the fact that, like all UH Manoa Computer Science students, I started learning how to code in Java. Of course starting with Java is good in the sense that it has a lot of rules, meaning that it makes you a better programmer by giving you less room for mistakes. On the flip side of that though, those rules can be suffocating and hard to get through when I’m in a time crunch and I have so far found Typescript to be a much freer language.
   
   But that is just comparing it to Java. I’ve also had classes where I’ve had to work exclusively in Python and C/C++, and if I had to hold Typescript up to it I’d say it’s just another language. If you look at it from a Software Engineering perspective, Typescript does have a lot of pros. It has a static type system which makes it easier to refactor large codebases as the compiler can make sure the changes are propagated safely, static typing also helps find type related errors in compile time rather than runtime making it reliable, and it also provides type inference making the development more efficient. But Typescript does make Javascript less flexible. But this is again more things that I know about Typescript and not what I have experienced from using it before, as I continue doing my assignments and creating projects in this language, I am sure that my opinion will change.
