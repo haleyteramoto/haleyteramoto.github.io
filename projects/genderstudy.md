@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Screenshot 2024-09-05 215951.png
 title: "Gender Study: Social Media Edition"
 # All dates must be YYYY-MM-DD format!
 published: false
