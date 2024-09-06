@@ -7,9 +7,9 @@ title: "Gender Study: Social Media Edition"
 published: false
 date: 2021-05-17
 labels:
-  - Research-Paper
+  - Research Paper
   - Gender
-  - Social-Media
+  - Social Media
 summary: "A research project I conducted in AP Research about how teens gender identity was portrayed on social media."
 ---
 When I was a Junior in High School I took AP Research, in which the goal of the class was to come up with an original research question and answer it. The question I asked was “How Does GenZ View Gender on TikTok?” This question stemmed from the fact that this was during lockdown, so I spent much of my time on social media since I couldn’t really get out of the house. In particular TikTok became this big thing and in general, there isn’t as much research on social media due to its relative recency.
