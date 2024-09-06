@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2024-09-05 215951.png
+image: img/IMG_1548.jpeg
 title: "Gender Study: Social Media Edition"
 # All dates must be YYYY-MM-DD format!
 published: true
