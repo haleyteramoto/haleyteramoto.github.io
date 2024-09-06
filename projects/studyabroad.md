@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/IMG_1428.jpeg
 title: "Study Abroad in London"
 # All dates must be YYYY-MM-DD format!
 date: 2023
