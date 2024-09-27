@@ -3,12 +3,12 @@ layout: essay
 type: essay
 title: "Format Error or Coding Error..."
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-05
+date: 2024-09-26
 published: true
 labels:
   - Typescript
+  - Coding Standard
   - Beginner
-  - Software Engineering
 ---
 When it comes to coding standards, I generally find them to be very helpful. Following them at times is challenging, but overall they tend to lead to code that is neat, consistent, and readable. The problem arises when in every coding class we are using a different language or program that in turn, has different coding standards. For the most part, this isn’t an issue because usually the coding standards are on a website page that we can reference back to after coding, but for the past week, in my 314 class, we have been required to use ESLint with VSCode.
 
