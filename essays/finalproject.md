@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Typescript Thoughts: Beginner Edition"
+title: "Final Project: Brainstorming"
 # All dates must be YYYY-MM-DD format!
 date: 2024-11-05
 published: true
