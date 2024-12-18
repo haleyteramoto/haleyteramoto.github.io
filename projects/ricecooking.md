@@ -5,7 +5,7 @@ image: img/rice_cooker.jpg
 title: "Rice Cooker Recipes: Web Application"
 # All dates must be YYYY-MM-DD format!
 published: true
-date: 22024
+date: 2024
 labels:
   - Final Project
   - Next.js
@@ -13,3 +13,10 @@ labels:
   - Typescript
 summary: "Rice Cooker Recipes was developed for the ICS 314 Final Project"
 ---
+
+To view the live deployment click here.
+
+To view the project homepage click here.
+
+# Project Overview
+
