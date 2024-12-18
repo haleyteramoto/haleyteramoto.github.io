@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_1548.jpeg
+image: img/rice_cooker.jpg
 title: "Rice Cooker Recipes: Web Application"
 # All dates must be YYYY-MM-DD format!
 published: true
