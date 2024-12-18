@@ -12,11 +12,5 @@ labels:
   - Vercel
   - Typescript
 summary: "Rice Cooker Recipes was developed for the ICS 314 Final Project"
+projecturl: https://rice-cooker-recipes.github.io/
 ---
-
-To view the live deployment click here.
-
-To view the project homepage click here.
-
-# Project Overview
-
