@@ -10,19 +10,19 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "haleyteramoto", "url": "http://github.com/haleyteramoto" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/haley-teramoto-8ab658292" },
+      { "network": "linkedin", "username": "Haley Teramoto", "url": "https://www.linkedin.com/in/haley-teramoto-8ab658292" },
     ]
   },
   "interests": [
     { "name": "Video Game Development" },
     { "name": "AI" },
-    { "name": "Comic Books" },
+    { "name": "Software Engineering" },
     { "name": "2D Animation" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Typescript", "Java", "Javascript", "C", "C++", "Python" ]
+      "keywords": [ "Typescript", "Java", "Javascript", "C", "C++" ]
     },
     {
       "name": "Toolsets/OS",
