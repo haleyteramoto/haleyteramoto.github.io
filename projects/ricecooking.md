@@ -14,7 +14,9 @@ labels:
 summary: "Rice Cooker Recipes was developed for the ICS 314 Final Project. It's purpose is to provide UH Manoa students with a way to learn and share recipes that can be made with minimul kitchen facilities and at a cheap price."
 ---
 
-
+<div align="center">
+  <img src="/img/home.png" alt="Description" width="300">
+</div>
 
 Rice Cooker Recipes is a project created to combat the second greatest problem college students face, being trying to eat a well balanced meal. The problem: students don't have the time, money, or resources to create meals that will leave them full, healthy, and satisfied. The solution: a website that allows students to find and share recipes that are cheap and require limited kitchen facilities. 
 
