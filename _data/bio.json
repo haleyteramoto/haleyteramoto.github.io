@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Typescript", "Java", "Javascript", "C", "C++" ]
+      "keywords": [ "Typescript", "Java", "Javascript", "C", "C++", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "WindowsOS", Git/GitHub" ]
+      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub", "NextJS/React" ]
     }
   ],
   "education": [
@@ -36,7 +36,7 @@
       "studyType": "B.A.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Software Engineering 1"
       ]
     }
   ],
